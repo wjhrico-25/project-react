@@ -1,0 +1,49 @@
+.Register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.RegisterBox {
+    margin-top: 8rem;
+    width: 350px;
+    height: 400px;
+    background-color: burlywood;
+    padding: 20px;
+}
+  
+.RegisterHeader {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bolder;  
+}
+  
+.inputs {
+    padding: 20px;
+}
+
+.Login_Page {
+    width: 100px;
+    height: 30px;
+    background-color:blue;
+    color: white;
+    border-radius: 6px;
+}
+
+.RegisterButton {
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+}
+  
+.Login_Page:hover {
+    background-color: lightblue;
+}
+
+.RegisterButton:hover {
+    background-color: lightgreen;    
+}

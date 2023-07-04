@@ -1,0 +1,50 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.LoginBox {
+    margin-top: 8rem;
+    width: 350px;
+    height: 400px;
+    background-color: burlywood;
+    padding: 20px;
+}
+  
+.LoginHeader {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bolder;  
+}
+  
+.inputs {
+    padding: 20px;
+}
+  
+
+.LoginButton {
+    width: 100px;
+    height: 30px;    
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+}
+  
+.Register_Page {
+    width: 140px;
+    height: 30px;    
+    background-color:blue;
+    color: white;
+    border-radius: 6px;
+}
+
+.LoginButton:hover {
+    background-color: lightgreen;
+}
+
+.Register_Page:hover {
+    background-color: lightblue;
+}
